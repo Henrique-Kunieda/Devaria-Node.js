@@ -59,6 +59,8 @@ readLine.question('Favor informar um número:', (numero1) =>  {
 }
 })
 
+/*comit */
+
     
 
    
